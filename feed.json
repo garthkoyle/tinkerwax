@@ -13,6 +13,8 @@
             "id": "https://tinkerwax.com/welcome-to-tinkerwax.html",
             "url": "https://tinkerwax.com/welcome-to-tinkerwax.html",
             "title": "Welcome to Tinkerwax",
+            "summary": "Welcome to Tinkerwax blocks for whittling and carving with a surprise inside.",
+            "content_html": "<p>Welcome to Tinkerwax blocks for whittling and carving with a surprise inside.</p>",
             "image": "https://tinkerwax.com/media/posts/1/tinkerwax.png",
             "author": {
                 "name": "Tinkerwax"
@@ -20,7 +22,7 @@
             "tags": [
             ],
             "date_published": "2021-03-16T10:32:30-06:00",
-            "date_modified": "2021-03-16T10:32:30-06:00"
+            "date_modified": "2021-03-16T12:41:18-06:00"
         }
     ]
 }

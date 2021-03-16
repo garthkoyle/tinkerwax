@@ -3,7 +3,7 @@
     <title>Tinkerwax</title>
     <link href="https://tinkerwax.com/feed.xml" rel="self" />
     <link href="https://tinkerwax.com" />
-    <updated>2021-03-16T10:32:30-06:00</updated>
+    <updated>2021-03-16T12:41:18-06:00</updated>
     <author>
         <name>Tinkerwax</name>
     </author>
@@ -17,8 +17,18 @@
         <link href="https://tinkerwax.com/welcome-to-tinkerwax.html"/>
         <id>https://tinkerwax.com/welcome-to-tinkerwax.html</id>
 
-        <updated>2021-03-16T10:32:30-06:00</updated>
-            <summary></summary>
-        <content></content>
+        <updated>2021-03-16T12:41:18-06:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://tinkerwax.com/media/posts/1/tinkerwax.png" alt="" />
+                    Welcome to Tinkerwax blocks for whittling and carving with a surprise inside.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://tinkerwax.com/media/posts/1/tinkerwax.png" alt="" />
+                <p>Welcome to Tinkerwax blocks for whittling and carving with a surprise inside.</p>
+            ]]>
+        </content>
     </entry>
 </feed>
