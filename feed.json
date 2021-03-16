@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Tinkerwax",
+    "description": "",
+    "home_page_url": "https://tinkerwax.com",
+    "feed_url": "https://tinkerwax.com/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Tinkerwax"
+    },
+    "items": [
+    ]
+}
