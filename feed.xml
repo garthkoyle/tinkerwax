@@ -3,10 +3,22 @@
     <title>Tinkerwax</title>
     <link href="https://tinkerwax.com/feed.xml" rel="self" />
     <link href="https://tinkerwax.com" />
-    <updated>1969-12-31T17:00:00-07:00</updated>
+    <updated>2021-03-16T10:32:30-06:00</updated>
     <author>
         <name>Tinkerwax</name>
     </author>
     <id>https://tinkerwax.com</id>
 
+    <entry>
+        <title>Welcome to Tinkerwax</title>
+        <author>
+            <name>Tinkerwax</name>
+        </author>
+        <link href="https://tinkerwax.com/welcome-to-tinkerwax.html"/>
+        <id>https://tinkerwax.com/welcome-to-tinkerwax.html</id>
+
+        <updated>2021-03-16T10:32:30-06:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
 </feed>
